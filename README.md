@@ -1,7 +1,8 @@
-# Zookeeper with Java 🦁🐪🦇🐇
+# Zookeeper with Java
 
-A simple Java project where I built a console-based zoo watcher program.  
-The application allows zookeepers to check on different animal habitats through ASCII art and text descriptions.
+A simple Java project where I built a console-based zoo watcher program. The application allows zookeepers to check on different animal habitats through ASCII art and text descriptions.
+
+The project was implemented in stages:
 
 1. **Stage 1 - Print first lines of code:**  
    Print an introductory message and basic status updates for animals.
@@ -19,7 +20,7 @@ The application allows zookeepers to check on different animal habitats through 
 
 ## Demo
 
-<video width="1920" height="1080" align="center" src=""></video>
+<video width="1920" height="1080" align="center" src="https://github.com/user-attachments/assets/54cdca7e-78f5-4e14-b3f0-8371b872926c"></video>
 
 ## Takeaway
 
